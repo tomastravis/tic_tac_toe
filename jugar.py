@@ -242,7 +242,7 @@ def mueveIA2(L, dificultad):
     
 
 
-
+nuevoTorneo()
 
 
 
