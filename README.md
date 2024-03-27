@@ -20,11 +20,11 @@ Este proyecto es parte del trabajo del curso para el módulo "Introducción a la
 
 1. Clona el repositorio en tu máquina local: `git clone https://github.com/tomastravis/tic-tac-toe-project.git`
 
-2. Navega hasta el directorio del proyecto: `cd tres_en_raya`
+2. Navega hasta el directorio del proyecto: `cd tic_tac_toe`
 
 3. Ejecuta el juego: `python jugar.py`
 
-4. Sigue las instrucciones en pantalla para jugar. Ingresa los números de fila y columna (1-3) para colocar tu símbolo (O) en el tablero. Continúa jugando hasta que un jugador gane o el juego termine en empate. Se te preguntará si deseas volver a jugar.
+4. Sigue las instrucciones en pantalla para jugar. Ingresa los números de fila y columna (1-3) para colocar tu símbolo (X) en el tablero. Continúa jugando hasta que un jugador gane o el juego termine en empate. Se te preguntará si deseas volver a jugar.
 
 ## Estructura de archivos
 
