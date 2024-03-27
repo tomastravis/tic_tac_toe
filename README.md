@@ -30,9 +30,13 @@ Este proyecto es parte del trabajo del curso para el módulo "Introducción a la
 
 tres_en_raya/
 │
+
 ├── README.md
+
 ├── jugar.py
+
 ├── tres_en_raya.py
+
 └── .gitignore
 
 jugar.py: Script que contiene el juego.
