@@ -1,44 +1,43 @@
-# Proyecto Tic-Tac-Toe
+# Tic-Tac-Toe Project
 
-## Resumen
+## Summary
 
-Este proyecto es parte del trabajo del curso para el módulo "Introducción a la Programación en Python" en el programa del máster en Data Analytics en la Universidad Loyola. El objetivo de este proyecto es implementar una versión simple en línea de comandos del clásico juego tres en raya utilizando Python.
+This project is part of the coursework for the "Introduction to Programming in Python" module in the Master's program in Data Analytics at Loyola University. The objective of this project is to implement a simple command-line version of the classic tic-tac-toe game using Python.
 
-## Características
+## Features
 
-- Interfaz de línea de comandos para una interacción fácil.
-- Visualización del tablero de juego actual después de cada movimiento.
-- Validación de la entrada del usuario para asegurar movimientos correctos.
-- Detección de la finalización del juego y anuncio del ganador o empate.
-- Opción para volver a jugar el juego.
+- Command-line interface for easy interaction.
+- Display of the current game board after each move.
+- Validation of user input to ensure correct moves.
+- Detection of game completion and announcement of the winner or a draw.
+- Option to replay the game.
 
-## Requisitos
+## Requirements
 
-- Python 3.x No se requieren bibliotecas o paquetes adicionales.
+- Python 3.x No additional libraries or packages are required.
 
-## Uso
+## Usage
 
-1. Clona el repositorio en tu máquina local: `git clone https://github.com/tomastravis/tic-tac-toe-project.git`
+1. Clone the repository to your local machine: `git clone https://github.com/tomastravis/tic-tac-toe-project.git`
 
-2. Navega hasta el directorio del proyecto: `cd tic_tac_toe`
+2. Navigate to the project directory: `cd tic_tac_toe`
 
-3. Ejecuta el juego: `python jugar.py`
+3. Run the game: `python play.py`
 
-4. Sigue las instrucciones en pantalla para jugar. Ingresa los números de fila y columna (1-3) para colocar tu símbolo (X) en el tablero. Continúa jugando hasta que un jugador gane o el juego termine en empate. Se te preguntará si deseas volver a jugar.
+4. Follow the on-screen instructions to play. Enter the row and column numbers (1-3) to place your symbol (X) on the board. Keep playing until one player wins or the game ends in a draw. You will be asked if you want to play again.
 
-## Estructura de archivos
+## File Structure
 
-tres_en_raya/
+tic_tac_toe/
 │
-
 ├── README.md
 
-├── jugar.py
+├── play.py
 
-├── tres_en_raya.py
+├── tic_tac_toe.py
 
 └── .gitignore
 
-jugar.py: Script que contiene el juego.
-tres_en_raya.py: parte del módulo de juego.
+play.py: Script containing the game.
+tic_tac_toe.py: Part of the game module.
 .gitignore: Specifies intentionally untracked files to ignore (e.g., .pyc files).
